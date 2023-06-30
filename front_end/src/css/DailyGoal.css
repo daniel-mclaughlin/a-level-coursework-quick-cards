@@ -1,0 +1,80 @@
+#sectionHeaders{
+    justify-content: center;
+}
+.sectionHeader{
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: medium;
+    width: 35%;
+    padding: 10px;
+}
+#selectedSectionHeader{
+    background-color: #00A896;
+    border-color: #00A896;
+    color: white;
+}
+#backButton{
+    float: left;
+    color: #474056;
+    border:none;
+    background-color: inherit;
+    margin: 10px;
+}
+#backButton:hover{
+    color: #00A896
+}
+.dailyGoalContent{
+    position: relative;
+    top: 65%;
+    transform: translate(0,-50%);
+}
+.imageSection{
+    position: relative;
+    top: 10px;
+    display:flex;
+    justify-content: center;
+    width: 50%;
+    color: #474056;
+    height: 100%;
+}
+.choiceSection{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+    right: 10px;
+}
+.choice{
+    border-style: solid;
+    border-radius: 1rem;
+    width: 80%;
+    color: white;
+}
+.choice:hover{
+    background-color: white;
+}
+.easy{
+    background-color: green;
+    border-color: green;
+}
+.easy:hover{
+    color: green;
+}
+.medium{
+    background-color: orange;
+    border-color: orange;
+}
+.medium:hover{
+    color: orange;
+}
+.hard{
+    background-color: red;
+    border-color: red;
+}
+.hard:hover{
+    color: red;
+}
+#selectedChoice{
+    border-color: #474056;
+    border-width: 3px;
+}

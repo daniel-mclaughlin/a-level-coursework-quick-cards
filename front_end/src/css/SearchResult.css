@@ -1,0 +1,24 @@
+/*SearchResult.css*/
+#searchResult{
+    position: relative;
+    border-style: solid;
+    width: 90%;
+    left: 5%;
+    border-radius: 1rem;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    color: #474056;
+}
+#username{
+    position: relative;
+    left: 10px;
+}
+#addFriend{
+    position: absolute;
+    right: 10px;
+    font-size: medium;
+    top: 50%;
+    transform: translate(0,-50%);
+}

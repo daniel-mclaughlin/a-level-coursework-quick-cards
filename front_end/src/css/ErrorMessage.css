@@ -1,0 +1,12 @@
+#errorMessage{
+    border-style: solid;
+    border-radius: 1rem;
+    border-color: #474056;
+    background-color: #474056;
+    font-weight: bold;
+    color: rgb(251, 83, 83);
+    padding: 10px;
+    list-style-position: inside;
+    width: 90%;
+    align-self: center;
+}

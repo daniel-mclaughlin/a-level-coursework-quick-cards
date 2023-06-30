@@ -1,0 +1,26 @@
+/*ResponseRating.css*/
+#responseRating{
+    position: relative;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 15%;
+    font-size: small;
+    height: 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+#responseIcon{
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+#responseLabel{
+    position:absolute;
+    top: 45px;
+    left: 50%;
+    transform: translate(-50%,0);
+}

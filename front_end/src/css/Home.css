@@ -1,0 +1,75 @@
+.main{
+    width: 100%;
+    height: 100%;
+}
+.panel{
+    border-style: solid;
+    border-color: #474056;
+    border-radius: 1rem;
+    background-color: white;
+    color: #474056;
+}
+.upperSection{
+    position: relative;
+    width: 90%;
+    height: 20%;
+    left: 5%;
+    justify-content: center;
+}
+.upperPageLinks{
+    justify-content: center;
+    position: relative;
+    width: 30%;
+    left: 5%;
+}
+.pageLinkUpper{
+    font-size: large;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+}
+#userStats{
+    position: relative;
+    right: 5%;
+}
+.cardStatIcon{
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+    height: fit-content;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+#lowerSection{
+    justify-content: center;
+    position: absolute;
+    top: calc(30% + 30px);
+    width: 90%;
+    height: 60%;
+    left: 5%;
+}
+.lowerSection{
+    position: relative;
+    width: 47.5%;
+    height: 100%;
+}
+#decks{
+    height: 100%;
+    right: 2.5%;
+}
+#activities{
+    height: 100%;
+    left: 2.5%;
+}
+.pageLinkLower{
+    font-size: large;
+    text-decoration: none;
+    border-radius: 1rem;
+    margin: 5px;
+    padding: 10px;
+}
+.upperSectionLabels{
+    font-size: xx-large;
+    margin-right: 10px;
+}

@@ -1,0 +1,14 @@
+#friendPageTabs{
+    justify-content: center;
+}
+.friendPageTab{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 20%;
+    padding:10px;
+}
+#friendPageTabSelected{
+    color: white;
+    background-color: #00a896;
+    border-color: white;
+}

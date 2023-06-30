@@ -1,0 +1,37 @@
+#searchFriends{
+    border-style: solid;
+    border-color: #474056;
+    border-radius: 1rem;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 5%;
+    padding: 10px;
+    background-color: white;
+}
+#searchBar{
+    font-size: medium;
+    width: 90%;
+    margin-right: 10px;
+}
+#addFriendsError{
+    position: relative;
+    left: 5%;
+}
+#noResultsSection{
+    border-style: solid;
+    border-color: #474056;
+    position: relative;
+    width: 90%;
+    top: 10px;
+    left: 5%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 1rem;
+    color: #474056;
+    justify-content: center;
+}
+#noResultsIcon{
+    padding: 10px;
+}

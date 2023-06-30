@@ -1,0 +1,32 @@
+/*Card.css*/
+#card{
+    width: 90%;
+    height: 10%;
+    border-style: solid;
+    border-radius: 1rem;
+    margin: 20px;
+    justify-content: center;
+    align-self: center;
+    background-color: white;
+}
+#Front{
+    width: 40%;
+    margin: 15px;
+    font-size: medium;
+    resize: none;
+}
+#Back{
+    width: 40%;
+    margin:15px;
+    font-size: medium;
+    resize: none;
+}
+#deleteButton{
+    height: 10%;
+    margin-top: 30px;
+    padding: 10px;
+}
+#deleteButton:hover{
+    color: red;
+    border-color: red;
+}

@@ -1,0 +1,21 @@
+
+#screen{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    color:#474056;
+    width: 90%;
+    height: 90%;
+    background-color: white;
+    border-style: solid;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.screenBackButton{
+    float: left;
+    margin: 10px;
+    color: #474056;
+    border: none;
+    background-color: inherit;
+}

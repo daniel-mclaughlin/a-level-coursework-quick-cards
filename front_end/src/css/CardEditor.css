@@ -1,0 +1,76 @@
+#deckNameHeader{
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+    height: 80px;
+}
+#deckName{
+    position: relative;
+    width: 40%;
+    padding-left: 10px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border-radius: 1rem;
+    border-color:white;
+    height: 100%;
+    font-size: large;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#saveButton{
+    position: relative;
+    width: 20%;
+    font-size: medium;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    height: 100%;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#toImportCards{
+    position: relative;
+    padding-top: 0px;
+    width:20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    font-weight: bold;
+    height: 100%;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+#allCards{
+    justify-content: center;
+    align-self: center;
+}
+#addCard{
+    padding: 10px;
+    margin: 10px;
+}
+
+#saveAlert{
+    background-color: red;
+    border-style: solid;
+    border-color: white;
+    border-radius: 1rem;
+    margin: 10px;
+    align-self: center;
+    justify-content: center;
+    font-weight: bold;
+}
+#saveOptions{
+    justify-content: center;
+}
+.saveOptionsButton{
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    border-style:solid;
+    border-color: white;
+    color: white;
+    border-radius: 1rem;
+    font-weight: bold;
+}
+.saveOptionsButton:hover{
+    background-color: white;
+    color:red
+}
