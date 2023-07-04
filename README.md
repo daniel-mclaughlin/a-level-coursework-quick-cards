@@ -9,4 +9,4 @@ The app includes:
 - Ability to add friends and view their recent activities
 - A daily streak system that can be triggered through experience points or cards studied
 
-I learnt alot about web development, specifically full stack JavaScript, and handling large projects and I'am very proud of it.
+I learnt alot about web development, specifically full stack JavaScript, and handling large projects and I'm very proud of it.
